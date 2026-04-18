@@ -1,4 +1,4 @@
-module andgate_if(a,b,c)
+module andgate_if(a,b,c);
   input a,b;
   output reg c;
   always @(a,b)
